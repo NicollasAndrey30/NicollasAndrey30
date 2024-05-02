@@ -3,7 +3,7 @@
 _Meu nome é: Nicollas Andrey Lopes da Silva_
 
 - Sou estudante da [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo e aprimorando a linguagem JavaScript
+- Estou me desenvolvendo e aprimorando a linguagem **JavaScript**
 - Estou usando esse espaço para minha organização e para o compartilhamento dos meus projetos desenvolvidos 🙌
 
   ### Para entrar em contato comigo 📫 :
